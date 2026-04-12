@@ -1,22 +1,22 @@
-# Available .SOLUTIONS One-Word Domains (5,622,020)
+# Available .SOLUTIONS One-Word Domains (7,414)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C404%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C020%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C419%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C414%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .solutions one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .solutions one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 7,404-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,020 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,404 rows · **Live catalog:** 5,622,020 domains
+**Public extract:** 7,419 rows · **Live catalog:** 7,414 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/solutions`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SOLUTIONS one-word do
 
 ### Files
 
-- `solutions.csv` — public CSV extract (7,404 rows)
-- `solutions.json` — public JSON extract (7,404 rows)
+- `solutions.csv` — public CSV extract (7,419 rows)
+- `solutions.json` — public JSON extract (7,419 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| okay.solutions     | available | $5.99     | $41.99        | 146            | 32     | 4      | name.com                   |
-| slow.solutions     | resell    | —         | —             | 114            | 99     | 4      | Dynadot Inc                |
-| diamond.solutions  | premium   | $500      | $500          | 76             | 36     | 7      | name.com                   |
-| extra.solutions    | available | $5.99     | $41.99        | 102            | 29     | 5      | name.com                   |
-| mesh.solutions     | resell    | —         | —             | 92             | 81     | 4      | Dynadot Inc                |
-| yard.solutions     | premium   | $123.75   | $123.75       | 80             | 34     | 4      | name.com                   |
-| dead.solutions     | available | $5.99     | $41.99        | 74             | 28     | 4      | name.com                   |
-| discover.solutions | resell    | —         | —             | 66             | 75     | 8      | IONOS SE                   |
-| gas.solutions      | premium   | $260      | $260          | 72             | 32     | 3      | namecheap                  |
-| leaders.solutions  | available | $5.99     | —             | 80             | 27     | 7      | name.com                   |
-| wise.solutions     | resell    | —         | —             | 98             | 72     | 4      | GoDaddy.com, LLC           |
-| adult.solutions    | premium   | $250      | $250          | 110            | 30     | 5      | name.com                   |
-| early.solutions    | available | $5.99     | $41.99        | 70             | 27     | 5      | name.com                   |
-| with.solutions     | resell    | —         | —             | 98             | 71     | 4      | Sav.com, LLC               |
-| two.solutions      | premium   | $1,000    | $1,000        | 80             | 28     | 3      | name.com                   |
-| grass.solutions    | available | $5.99     | —             | 66             | 27     | 5      | name.com                   |
-| easy.solutions     | resell    | —         | —             | 128            | 68     | 4      | NameSilo, LLC              |
-| sad.solutions      | premium   | $123.75   | $123.75       | 72             | 27     | 3      | name.com                   |
-| stretch.solutions  | available | $5.99     | $41.99        | 100            | 26     | 7      | name.com                   |
-| prompt.solutions   | resell    | —         | —             | 114            | 68     | 6      | Squarespace Domains II LLC |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| okay.solutions       | available | $5.99     | $41.99        | 146            | 31     | 4      | name.com                   |
+| slow.solutions       | resell    | —         | —             | 114            | 99     | 4      | Dynadot Inc                |
+| diamond.solutions    | premium   | $500      | $500          | 76             | 36     | 7      | name.com                   |
+| extra.solutions      | available | $5.99     | $41.99        | 102            | 29     | 5      | name.com                   |
+| mesh.solutions       | resell    | —         | —             | 92             | 81     | 4      | Dynadot Inc                |
+| yard.solutions       | premium   | $123.75   | $123.75       | 80             | 35     | 4      | name.com                   |
+| dead.solutions       | available | $5.99     | $41.99        | 74             | 28     | 4      | name.com                   |
+| discover.solutions   | resell    | —         | —             | 66             | 75     | 8      | IONOS SE                   |
+| gas.solutions        | premium   | $260      | $260          | 72             | 32     | 3      | namecheap                  |
+| strawberry.solutions | available | $5.99     | —             | 70             | 28     | 10     | name.com                   |
+| wise.solutions       | resell    | —         | —             | 98             | 72     | 4      | GoDaddy.com, LLC           |
+| adult.solutions      | premium   | $250      | $250          | 110            | 30     | 5      | name.com                   |
+| leaders.solutions    | available | $5.99     | —             | 80             | 27     | 7      | name.com                   |
+| with.solutions       | resell    | —         | —             | 98             | 71     | 4      | Sav.com, LLC               |
+| two.solutions        | premium   | $1,000    | $1,000        | 80             | 27     | 3      | name.com                   |
+| early.solutions      | available | $5.99     | $41.99        | 70             | 27     | 5      | name.com                   |
+| easy.solutions       | resell    | —         | —             | 128            | 68     | 4      | NameSilo, LLC              |
+| sad.solutions        | premium   | $123.75   | $123.75       | 72             | 27     | 3      | name.com                   |
+| drink.solutions      | available | $5.99     | $41.99        | 100            | 25     | 5      | name.com                   |
+| prompt.solutions     | resell    | —         | —             | 114            | 68     | 6      | Squarespace Domains II LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,404-row public sample | 5,622,020 live domains                           |
+| 7,419-row public sample | 7,414 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOLUTIONS One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOLUTIONS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
