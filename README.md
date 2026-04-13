@@ -1,20 +1,20 @@
-# Available .SOLUTIONS One-Word Domains (7,414)
+# Available .SOLUTIONS One-Word Domains (7,419)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C418%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C414%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C417%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C419%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .solutions one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .solutions one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 7,417-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **7,419 domains** on the canonical page below.
 
-**Public extract:** 7,418 rows · **Live catalog:** 7,414 domains
+**Public extract:** 7,417 rows · **Live catalog:** 7,419 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/solutions`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SOLUTIONS one-word do
 
 ### Files
 
-- `solutions.csv` — public CSV extract (7,418 rows)
-- `solutions.json` — public JSON extract (7,418 rows)
+- `solutions.csv` — public CSV extract (7,417 rows)
+- `solutions.json` — public JSON extract (7,417 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -79,9 +79,9 @@ print(df.head())
 | leaders.solutions    | available | $5.99     | —             | 80             | 27     | 7      | name.com                   |
 | easy.solutions       | resell    | —         | —             | 128            | 68     | 4      | NameSilo, LLC              |
 | two.solutions        | premium   | $1,000    | $1,000        | 80             | 27     | 3      | name.com                   |
-| early.solutions      | available | $5.99     | $41.99        | 70             | 27     | 5      | name.com                   |
+| early.solutions      | available | $5.99     | $41.99        | 70             | 26     | 5      | name.com                   |
 | prompt.solutions     | resell    | —         | —             | 114            | 68     | 6      | Squarespace Domains II LLC |
-| sad.solutions        | premium   | $123.75   | $123.75       | 72             | 27     | 3      | name.com                   |
+| sad.solutions        | premium   | $123.75   | $123.75       | 72             | 26     | 3      | name.com                   |
 | drink.solutions      | available | $5.99     | $41.99        | 100            | 25     | 5      | name.com                   |
 | fleet.solutions      | resell    | —         | —             | 64             | 68     | 5      | Porkbun LLC                |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,418-row public sample | 7,414 live domains                               |
+| 7,417-row public sample | 7,419 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
