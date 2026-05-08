@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 00073c60-864d-4cae-ab4b-9994ea597184,lightsout.solutions,available,5.99,,56,12,10,name.com,,
-00098a20-2018-4e93-b2da-b6b8a2b4f81a,lcd.solutions,available,5.99,,76,13,3,name.com,,
+00098a20-2018-4e93-b2da-b6b8a2b4f81a,lcd.solutions,available,5.99,,76,12,3,name.com,,
 00131f70-7ccd-4974-bf9d-98f442100027,getround.solutions,available,5.99,,74,0,9,name.com,,
 00136628-6aaf-4911-a3c9-7e647ec9126b,biases.solutions,available,5.99,,42,3,6,name.com,,
 0054e975-b0f4-449a-9f8e-f39e3e0f4ae4,proxyfight.solutions,available,5.99,,44,1,11,name.com,,
