@@ -485,6 +485,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2d166012-aa16-40dc-9e62-b7a45572fac4,officekeeper.solutions,available,5.99,,45,1,13,name.com,,
 2d390ac8-284b-4ad1-931c-64a8154d06e2,Ihavenever.solutions,available,41.98,,68,1,12,namecheap,,
 2d3c053c-5b54-4f9f-b1bd-77795187c0d9,AcademyAward.solutions,available,41.98,,76,1,13,namecheap,,
+2d3c6745-db64-426f-b55c-500ea8d19141,tks.solutions,premium,,,70,17,3,,,
 2d40abf0-1313-42c6-9e4b-e793cf654d83,throats.solutions,available,5.99,,44,2,7,name.com,,
 2d9d21b0-8459-419b-bb7f-5b688d23de28,newsstand.solutions,available,5.99,,52,5,10,name.com,,
 2d9fd03b-4c1d-496b-9945-1c300a18ebb4,majorityleader.solutions,available,5.99,,54,1,15,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 63422c20-96e5-48df-a0b7-dec99017886d,makenews.solutions,available,5.99,,80,1,9,name.com,,
 63570bbe-bc96-4691-8238-b0efac00e539,windowshop.solutions,available,5.99,,83,5,11,name.com,,
 63655dfc-5642-40f0-888b-88298cd75369,boundaries.solutions,available,5.99,,56,7,10,name.com,,
-638645b2-cc9d-45b8-a883-bdd5c2be8e46,oaktrees.solutions,available,5.99,,56,3,9,name.com,,

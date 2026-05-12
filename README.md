@@ -69,6 +69,7 @@ print(df.head())
 | plz.solutions     | premium   | $123.75   | —             | 72             | 14     | 3      | name.com    |
 | dogs.solutions    | available | $5.99     | —             | 76             | 28     | 4      | name.com    |
 | info.solutions    | resell    | —         | —             | 80             | 51     | 4      | Porkbun LLC |
+| tks.solutions     | premium   | —         | —             | 70             | 17     | 3      | —           |
 | forms.solutions   | available | $5.99     | —             | 54             | 28     | 5      | name.com    |
 | lab.solutions     | resell    | —         | —             | 78             | 46     | 3      | Porkbun LLC |
 | gods.solutions    | available | $5.99     | —             | 72             | 27     | 4      | name.com    |
@@ -83,7 +84,6 @@ print(df.head())
 | talent.solutions  | resell    | —         | —             | 76             | 40     | 6      | Porkbun LLC |
 | stadia.solutions  | available | $5.99     | —             | 66             | 22     | 6      | name.com    |
 | call.solutions    | resell    | —         | —             | 80             | 37     | 4      | Porkbun LLC |
-| oceans.solutions  | available | $5.99     | —             | 64             | 22     | 6      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
