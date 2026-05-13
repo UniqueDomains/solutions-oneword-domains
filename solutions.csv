@@ -411,6 +411,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 25cb738c-7197-4049-bf3d-d65d5d1c19cf,abovespecified.solutions,available,5.99,,54,0,15,name.com,,
 25d59e86-e1aa-445c-9a8f-106d9ba5fa05,SpiritofGod.solutions,available,41.98,,63,2,13,namecheap,,
 25dba4c7-6596-4fce-94ad-9b3a7a12e6c1,havethefloor.solutions,available,5.99,,64,1,14,name.com,,
+26041506-1921-4bb8-b3d5-609b03a9b3db,Liam.solutions,resell,,,81,32,4,Dynadot Inc,11/05/2026 17:00,11/05/2027 17:00
 263f6b5e-e755-4513-9a91-c49b0bbf6e0e,quizzes.solutions,available,5.99,,54,8,7,name.com,,
 264f1150-ab67-4b07-a370-c77d8d4f43f4,photographed.solutions,available,5.99,,54,3,12,name.com,,
 266016ef-e04e-47af-8bfd-13c1c8a7661d,cuddles.solutions,available,5.99,,71,10,7,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 63309648-cc7b-4f20-9d4b-1bf8a072fb8d,goplaces.solutions,available,5.99,,74,5,9,name.com,,
 63422c20-96e5-48df-a0b7-dec99017886d,makenews.solutions,available,5.99,,80,1,9,name.com,,
 63570bbe-bc96-4691-8238-b0efac00e539,windowshop.solutions,available,5.99,,83,5,11,name.com,,
-63655dfc-5642-40f0-888b-88298cd75369,boundaries.solutions,available,5.99,,56,7,10,name.com,,
