@@ -80,7 +80,7 @@ print(df.head())
 | axis.solutions    | resell    | —         | —             | 68             | 43     | 4      | Porkbun LLC |
 | coupons.solutions | available | $5.99     | —             | 52             | 24     | 7      | name.com    |
 | people.solutions  | resell    | —         | —             | 86             | 42     | 6      | Porkbun LLC |
-| plants.solutions  | available | $5.99     | —             | 75             | 23     | 6      | name.com    |
+| plants.solutions  | available | $5.99     | —             | 75             | 22     | 6      | name.com    |
 | talent.solutions  | resell    | —         | —             | 76             | 40     | 6      | Porkbun LLC |
 | stadia.solutions  | available | $5.99     | —             | 66             | 22     | 6      | name.com    |
 | call.solutions    | resell    | —         | —             | 80             | 37     | 4      | Porkbun LLC |
