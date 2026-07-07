@@ -1,10 +1,10 @@
-# Available .SOLUTIONS One-Word Domains (10,144)
+# Available .SOLUTIONS One-Word Domains (10,141)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C144%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C141%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .solutions one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,144 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,141 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,144 domains · **Median ask:** $10.15 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,141 domains · **Median ask:** $12.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/solutions`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/solutions`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SOLUTIONS one-word do
 
 ### Files
 
-- `solutions.csv` — public CSV extract (1,000 rows)
-- `solutions.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `solutions.csv`, public CSV extract (1,000 rows)
+- `solutions.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| cams.solutions        | available | $5.99     | —             | 52             | 29     | 4      | name.com    |
-| fast.solutions        | resell    | —         | —             | 82             | 51     | 4      | Porkbun LLC |
-| plz.solutions         | premium   | $123.75   | —             | 72             | 14     | 3      | name.com    |
-| dogs.solutions        | available | $5.99     | —             | 76             | 28     | 4      | name.com    |
-| info.solutions        | resell    | —         | —             | 80             | 51     | 4      | Porkbun LLC |
-| tks.solutions         | premium   | —         | —             | 70             | 17     | 3      | —           |
-| forms.solutions       | available | $5.99     | —             | 54             | 28     | 5      | name.com    |
-| lab.solutions         | resell    | —         | —             | 78             | 46     | 3      | Porkbun LLC |
-| sweetdreams.solutions | premium   | —         | —             | 64             | 14     | 12     | —           |
-| gods.solutions        | available | $5.99     | —             | 72             | 27     | 4      | name.com    |
-| sun.solutions         | resell    | —         | —             | 78             | 44     | 3      | Porkbun LLC |
-| drops.solutions       | available | $5.99     | —             | 52             | 25     | 5      | name.com    |
-| bit.solutions         | resell    | —         | —             | 76             | 44     | 3      | Porkbun LLC |
-| pops.solutions        | available | $5.99     | —             | 74             | 24     | 4      | name.com    |
-| axis.solutions        | resell    | —         | —             | 68             | 43     | 4      | Porkbun LLC |
-| coupons.solutions     | available | $5.99     | —             | 52             | 24     | 7      | name.com    |
-| people.solutions      | resell    | —         | —             | 86             | 42     | 6      | Porkbun LLC |
-| plants.solutions      | available | $5.99     | —             | 75             | 22     | 6      | name.com    |
-| talent.solutions      | resell    | —         | —             | 76             | 40     | 6      | Porkbun LLC |
-| stadia.solutions      | available | $5.99     | —             | 66             | 22     | 6      | name.com    |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| kgb.solutions  | available | $5.99     | —             | high           | low    | 3      | name.com         |
+| all.solutions  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| awe.solutions  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| brag.solutions | available | $5.99     | —             | high           | low    | 4      | name.com         |
+| car.solutions  | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
+| boy.solutions  | premium   | $123.75   | —             | medium         | low    | 3      | name.com         |
+| clam.solutions | available | $5.99     | —             | high           | low    | 4      | name.com         |
+| NYC.solutions  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| cot.solutions  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| cons.solutions | available | $5.99     | —             | high           | low    | 4      | name.com         |
+| alto.solutions | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC      |
+| dew.solutions  | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
+| died.solutions | available | $5.99     | —             | medium         | low    | 4      | name.com         |
+| arch.solutions | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 6 |
+| gag.solutions  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| DJIA.solutions | available | $5.99     | —             | medium         | low    | 4      | name.com         |
+| bear.solutions | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
+| gas.solutions  | premium   | $260      | $260          | high           | low    | 3      | namecheap        |
+| each.solutions | available | $5.99     | $41.99        | high           | low    | 4      | name.com         |
+| beer.solutions | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,144 live domains                        |
+| 1,000-row public sample | 10,141 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all in the .solutions extension, with a one-word structure that can suit agencies, consultants, B2B software, service firms, and problem-solving brands. The set spans broad dictionary terms, action words, descriptive terms, and some names that may carry clear trademark concerns, such as Gmail.solutions. When comparing these domains, focus on whether the word naturally pairs with “solutions,” how easy it is to say and remember, and whether the name feels commercially credible in this extension. With a median ask of 10.15, the practical filter is fit and risk, not just headline price.
+This set covers 10,141 one-word .solutions domain names, ranging from everyday nouns to short action phrases such as fast.solutions and letitbe.solutions. Median asking price sits near $12, keeping most of these names within reach for founders shortlisting a memorable domain and investors scanning broad .solutions coverage before committing. Updated daily, the list reflects current registration-level pricing, so renewal cost and brandability are the main factors when comparing names here.
 
-- Prioritize words that pair naturally with “solutions”
-- Check trademark exposure on brand-specific terms
-- Favor clear, memorable words over awkward abstract ones
-- Use price as a filter, but fit should decide the pick
+- 10,141 one-word .solutions domain names in this selection
+- Median asking price near $12 per domain
+- Compound-word names like coffeeroyal.solutions and midautumn.solutions
+- Updated daily for current pricing and renewal comparisons
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOLUTIONS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOLUTIONS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
