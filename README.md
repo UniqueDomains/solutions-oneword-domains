@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .solutions one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,545 domains · **Median ask:** $9.22 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/solutions`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| fond.solutions | available | $5.99     | $41.99        | high           | low    | 4      | name.com         |
 | kgb.solutions  | available | $5.99     | —             | high           | low    | 3      | name.com         |
 | all.solutions  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
 | awe.solutions  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
@@ -84,6 +83,7 @@ print(df.head())
 | bear.solutions | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
 | gas.solutions  | premium   | $260      | $260          | high           | low    | 3      | namecheap        |
 | brag.solutions | available | $5.99     | —             | high           | low    | 4      | name.com         |
+| book.solutions | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 5 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOLUTIONS One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOLUTIONS One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
