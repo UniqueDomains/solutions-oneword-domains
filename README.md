@@ -1,10 +1,10 @@
-# Available .SOLUTIONS One-Word Domains (17,998)
+# Available .SOLUTIONS One-Word Domains (18,255)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C998%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C255%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .solutions one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **17,998 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,255 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 17,998 domains · **Median ask:** $11.89 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 18,255 domains · **Median ask:** $11.95 · **High-demand under $2,500:** 2
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/solutions`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| lou.solutions  | available | $10.99    | $30.99        | high           | low    | 3      | namesilo            |
-| asl.solutions  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 17   |
-| ano.solutions  | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap           |
-| nfl.solutions  | available | $10.99    | $30.99        | high           | low    | 3      | namesilo            |
-| bet.solutions  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc         |
-| bob.solutions  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo            |
-| yur.solutions  | available | $5.99     | —             | high           | low    | 3      | name.com            |
-| liv.solutions  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc         |
-| btw.solutions  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo            |
-| abbe.solutions | available | $10.99    | $30.99        | medium         | low    | 4      | namesilo            |
-| ajax.solutions | resell    | —         | —             | high           | low    | 4      | Tucows Domains Inc. |
-| fit.solutions  | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap           |
-| acer.solutions | available | $10.99    | $30.99        | high           | low    | 4      | namesilo            |
-| best.solutions | resell    | —         | —             | high           | medium | 4      | Dynadot Inc         |
-| fry.solutions  | premium   | $242      | $242          | high           | low    | 3      | namesilo            |
-| acyl.solutions | available | $8.98     | $41.98        | medium         | low    | 4      | namecheap           |
-| bulk.solutions | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC        |
-| gad.solutions  | premium   | $128.70   | $128.70       | medium         | low    | 3      | namecheap           |
-| alga.solutions | available | $10.99    | $30.99        | high           | low    | 4      | namesilo            |
-| cell.solutions | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.     |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| lou.solutions   | available | $10.99    | $30.99        | high           | low    | 3      | namesilo            |
+| award.solutions | resell    | $5.99     | —             | high           | low    | 5      | name.com            |
+| ano.solutions   | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap           |
+| nfl.solutions   | available | $10.99    | $30.99        | high           | low    | 3      | namesilo            |
+| asl.solutions   | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 17   |
+| bob.solutions   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo            |
+| yur.solutions   | available | $5.99     | —             | high           | low    | 3      | name.com            |
+| bet.solutions   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc         |
+| btw.solutions   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo            |
+| abbe.solutions  | available | $10.99    | $30.99        | medium         | low    | 4      | namesilo            |
+| liv.solutions   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc         |
+| fit.solutions   | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap           |
+| acer.solutions  | available | $10.99    | $30.99        | high           | low    | 4      | namesilo            |
+| ste.solutions   | resell    | —         | —             | high           | low    | 3      | —                   |
+| fry.solutions   | premium   | $242      | $242          | high           | low    | 3      | namesilo            |
+| acyl.solutions  | available | $8.98     | $41.98        | medium         | low    | 4      | namecheap           |
+| ajax.solutions  | resell    | —         | —             | high           | low    | 4      | Tucows Domains Inc. |
+| gad.solutions   | premium   | $128.70   | $128.70       | medium         | low    | 3      | namecheap           |
+| alga.solutions  | available | $10.99    | $30.99        | high           | low    | 4      | namesilo            |
+| best.solutions  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 17,998 live domains                        |
+| 1,000-row public sample | 18,255 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
